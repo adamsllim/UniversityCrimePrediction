@@ -1,6 +1,6 @@
 # University Crime Prediction
 
-## Objective...
+## Overview...
 This project analyzes crime occurrences across U.S. universities to determine whether a campus is more prone to property crime or violent crime. Using seven crime categories from the FBI’s Uniform Crime Reporting (UCR) framework, the project applies supervised learning techniques — Support Vector Machines (SVM) and K‑Nearest Neighbors (KNN) — to classify universities based on their crime profiles.
 
 The goal of the project is to help students, administrators, and analysts understand crime patterns on university campuses, identify risk factors, and evaluate which institutions are more likely to experience property‑related or violent offenses.
